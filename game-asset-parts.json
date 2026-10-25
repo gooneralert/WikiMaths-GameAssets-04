@@ -1,0 +1,19 @@
+{
+  "files/sirkicksalot/TheAdventuresOfSirKicksalot_Data/index.pck": {
+    "size": 182225804,
+    "parts": [
+      {
+        "path": "files/sirkicksalot/TheAdventuresOfSirKicksalot_Data/index.pck.part001",
+        "size": 90000000
+      },
+      {
+        "path": "files/sirkicksalot/TheAdventuresOfSirKicksalot_Data/index.pck.part002",
+        "size": 90000000
+      },
+      {
+        "path": "files/sirkicksalot/TheAdventuresOfSirKicksalot_Data/index.pck.part003",
+        "size": 2225804
+      }
+    ]
+  }
+}
