@@ -1,0 +1,283 @@
+{
+  "slug": "dome-keeper",
+  "title": "Dome Keeper",
+  "type": "HTML",
+  "developer": "Bippinbits",
+  "description": "Defend against waves of alien monsters in this unique roguelike action miner. Dig for resources, collect useful gadgets, and upgrade equipment to increase odds of survival â just hurry back before your dome is destroyed!",
+  "tags": [
+    "Tower Defense",
+    "Survival",
+    "Exploration",
+    "Procedural Generation",
+    "2D"
+  ],
+  "controls": [
+    {
+      "action": "Up",
+      "keys": [
+        {
+          "key": "ArrowUp",
+          "keyCode": 38
+        },
+        {
+          "key": "KeyW",
+          "keyCode": 87
+        }
+      ]
+    },
+    {
+      "action": "Down",
+      "keys": [
+        {
+          "key": "ArrowDown",
+          "keyCode": 40
+        },
+        {
+          "key": "KeyS",
+          "keyCode": 83
+        }
+      ]
+    },
+    {
+      "action": "Right",
+      "keys": [
+        {
+          "key": "ArrowRight",
+          "keyCode": 39
+        },
+        {
+          "key": "KeyD",
+          "keyCode": 68
+        }
+      ]
+    },
+    {
+      "action": "Left",
+      "keys": [
+        {
+          "key": "ArrowLeft",
+          "keyCode": 37
+        },
+        {
+          "key": "KeyA",
+          "keyCode": 65
+        }
+      ]
+    },
+    {
+      "action": "Use",
+      "keys": [
+        {
+          "key": "Space",
+          "keyCode": 32
+        }
+      ]
+    },
+    {
+      "action": "Drop",
+      "keys": [
+        {
+          "key": "KeyQ",
+          "keyCode": 81
+        }
+      ]
+    },
+    {
+      "action": "Gadget 1",
+      "keys": [
+        {
+          "key": "KeyF",
+          "keyCode": 70
+        }
+      ]
+    },
+    {
+      "action": "Gadget 2",
+      "keys": [
+        {
+          "key": "KeyR",
+          "keyCode": 82
+        }
+      ]
+    },
+    {
+      "action": "Pause",
+      "keys": [
+        {
+          "key": "Escape",
+          "keyCode": 27
+        }
+      ]
+    }
+  ],
+  "gamepadControls": [
+    {
+      "action": "Up",
+      "axes": [
+        {
+          "index": 1,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Down",
+      "axes": [
+        {
+          "index": 1,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Right",
+      "axes": [
+        {
+          "index": 0,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Left",
+      "axes": [
+        {
+          "index": 0,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Use",
+      "buttons": [
+        0
+      ]
+    },
+    {
+      "action": "Drop",
+      "buttons": [
+        1
+      ]
+    },
+    {
+      "action": "Gadget 1",
+      "buttons": [
+        2
+      ]
+    },
+    {
+      "action": "Gadget 2",
+      "buttons": [
+        3
+      ]
+    },
+    {
+      "action": "Pause",
+      "buttons": [
+        9
+      ]
+    }
+  ],
+  "controllerSupport": true,
+  "sourceId": "2174c61c-f531-441b-b0a1-006b2edcbc8d",
+  "sourceVersion": "4.2.2",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/index.html",
+  "status": "done",
+  "sizeBytes": 1071636140,
+  "assetCount": 10,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/index.apple-touch-icon.png",
+    "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/godot.web.template_debug.wasm32.wasm",
+    "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/godot.web.template_debug.wasm32.worker.js",
+    "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.ogg",
+    "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.wav",
+    "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.audio.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.worker.js",
+    "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/godot.audio.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.mp3",
+    "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.js",
+    "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.wasm",
+    "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.side.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/index.apple-touch-icon.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/index.apple-touch-icon.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/godot.web.template_debug.wasm32.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/godot.web.template_debug.wasm32.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/godot.web.template_debug.wasm32.worker.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/godot.web.template_debug.wasm32.worker.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.wav",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.audio.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.worker.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.worker.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/godot.audio.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/godot.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.side.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2174c61c-f531-441b-b0a1-006b2edcbc8d/4.2.2/.side.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:16:18.371Z",
+  "verifiedAt": "2026-10-26T10:16:30.773Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 8,
+    "title": "Dome Keeper",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": 0
+  }
+}
