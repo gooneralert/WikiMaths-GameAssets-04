@@ -1,0 +1,94 @@
+{
+  "slug": "ultimate-custom-night",
+  "title": "Ultimate Custom Night",
+  "type": "HTML",
+  "developer": "Scott Cawthon",
+  "description": "Welcome to the ultimate FNAF mashup, where you will once again be trapped alone in an office fending off killer animatronics! Featuring 50 selectable animatronic characters spanning seven Five Nights at Freddy's games, the options for customization are nearly endless. Mix and match any assortment of characters that you like, set their difficulty from 0-20, then jump right into the action! From your office desk, you will need to manage two side doors, two vents, as well as two air hoses, all of which lead directly into your office.",
+  "tags": [
+    "Horror",
+    "Point & Click",
+    "Indie",
+    "Strategy",
+    "Survival"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "a92208ff-b7fa-4131-9acc-2bbad728c1a4",
+  "sourceVersion": "1.031",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/index.html",
+  "status": "done",
+  "sizeBytes": 323311855,
+  "assetCount": 44,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/resources.zip",
+    "https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/fire1U.png",
+    "https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/joyback.png",
+    "https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/fire1D.png",
+    "https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/fire2U.png",
+    "https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/joyfront.png",
+    "https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/Preloader.png",
+    "https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/fire2D.png"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/resources.zip",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/resources.zip",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/fire1U.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/fire1U.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/joyback.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/joyback.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/fire1D.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/fire1D.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/fire2U.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/fire2U.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/joyfront.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/joyfront.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/Preloader.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/Preloader.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/fire2D.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/a92208ff-b7fa-4131-9acc-2bbad728c1a4/1.031/fire2D.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:26:21.266Z",
+  "verifiedAt": "2026-10-26T10:26:47.290Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Ultimate Custom Night",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0
+  }
+}

@@ -15,5 +15,71 @@
         "size": 2225804
       }
     ]
+  },
+  "local-games/dome-keeper/index.pck": {
+    "size": 1021892176,
+    "parts": [
+      {
+        "path": "local-games/dome-keeper/index.pck.part001",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/dome-keeper/index.pck.part002",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/dome-keeper/index.pck.part003",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/dome-keeper/index.pck.part004",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/dome-keeper/index.pck.part005",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/dome-keeper/index.pck.part006",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/dome-keeper/index.pck.part007",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/dome-keeper/index.pck.part008",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/dome-keeper/index.pck.part009",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/dome-keeper/index.pck.part010",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/dome-keeper/index.pck.part011",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/dome-keeper/index.pck.part012",
+        "size": 31892176
+      }
+    ]
+  },
+  "local-games/endoparasitic/Endoparasitic.pck": {
+    "size": 129277680,
+    "parts": [
+      {
+        "path": "local-games/endoparasitic/Endoparasitic.pck.part001",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/endoparasitic/Endoparasitic.pck.part002",
+        "size": 39277680
+      }
+    ]
   }
 }
